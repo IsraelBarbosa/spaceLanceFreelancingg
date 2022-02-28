@@ -1,0 +1,63 @@
+.find-the-best {
+  display: flex;
+  justify-content: space-between;
+
+  @media screen and (max-width: 900px) {
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+}
+
+.find-the-best-container-img {
+  width: 46%;
+
+
+  @media screen and (max-width: 900px) {
+    width: 100%;
+    margin-bottom: 30px;
+  }
+}
+
+.find-the-best__img {
+  max-width: 100%;
+}
+
+.find-the-best-container-titulo {
+  width: 46%;
+
+  @media screen and (max-width: 900px) {
+    width: 100%;
+  }
+}
+
+.find-the-best__titulo {
+  margin-bottom: 10px;
+
+  font-size: 56px;
+  font-weight: 500;
+  text-align: right;
+
+  @media screen and (max-width: 1150px) {
+    font-size: 48px;
+  }
+
+  @media screen and (max-width: 400px) {
+    font-size: 45px;
+  }
+}
+
+.find-the-best__titulo-destaque {
+  color: #1e88e5;
+}
+
+.find-the-best__paragrafo {
+  color: #9d9d9d;
+
+  font-size: 24px;
+  text-align: right;
+
+  @media screen and (max-width: 1150px) {
+    font-size: 20px;
+  }
+}

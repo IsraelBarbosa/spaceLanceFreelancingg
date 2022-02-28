@@ -1,0 +1,125 @@
+.checkout-the-best {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.checkout-the-best__sub-titulo {
+  color: #9d9d9d;
+  font-size: 36px;
+  font-weight: 400;
+  text-align: center;
+
+  @media screen and (max-width: 1150px) {
+    font-size: 32px;
+  }
+}
+
+.checkout-the-best__titulo {
+  margin-bottom: 30px;
+
+  font-size: 56px;
+  font-weight: 600;
+  text-align: center;
+
+  @media screen and (max-width: 1150px) {
+    font-size: 48px;
+  }
+
+  @media screen and (max-width: 400px) {
+    font-size: 45px;
+  }
+}
+
+.checkout-the-best__titulo-destaque {
+  color: #1e88e5;
+}
+
+.checkout-the-best-container-cards {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 20px;
+  width: 100%;
+  margin-bottom: 50px;
+
+  @media screen and (max-width: 1280px) {
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+  }
+}
+
+.checkout-the-best-card-container-titulo-e-seta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px 30px 20px;
+}
+
+.checkout-the-best__card {
+  border-radius: 10px;
+  box-shadow: 0 5px 20px 0px #00000013;
+
+  @media screen and (max-width: 1280px) {
+    margin-bottom: 20px;
+  }
+
+  @media screen and (max-width: 500px) {
+    width: 100%;
+  }
+}
+
+.checkout-the-best__card__img {
+  @media screen and (max-width: 500px) {
+    width: 100%;
+  }
+}
+
+.checkout-the-best__card__titulo {
+  color: #252525;
+
+  font-size: 30px;
+  font-weight: 600;
+
+  @media screen and (max-width: 1150px) {
+    font-size: 26px;
+  }
+}
+
+.checkout-the-best__card__sub-titulo {
+  color: #9d9d9d;
+
+  font-size: 24px;
+  font-weight: 400;
+
+  @media screen and (max-width: 1150px) {
+    font-size: 20px;
+  }
+}
+
+.checkout-the-best__nav {
+  display: flex;
+}
+
+.checkout-the-best__nav__btn {
+  width: 40px;
+  height: 10px;
+  margin-right: 10px;
+  border-radius: 10px;
+
+  background-color: #9d9d9d;
+
+  cursor: pointer;
+
+  &:first-child {
+    width: 60px;
+
+    background-color: #1e88e5;
+  }
+
+  &:last-child {
+    margin-right: 0;
+  }
+}

@@ -1,0 +1,111 @@
+.recently-posted-card {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-direction: column;
+
+  max-width: 372px;
+  padding: 10px 20px;
+  border-radius: 20px;
+  margin-right: 40px;
+  box-shadow: 0 5px 20px 0px #00000013;
+
+  &:last-child {
+    margin-right: 0;
+  }
+
+  @media screen and (max-width: 1289px) {
+    margin-bottom: 30px;
+  }
+
+  @media screen and (max-width: 1230px) {
+    &:nth-child(2) {
+      margin-right: 0;
+    }
+  }
+
+  @media screen and (max-width: 900px) {
+    margin-right: 0;
+  }
+}
+
+.recently-posted-card__img {
+  margin-bottom: 20px;
+}
+
+.recently-posted-card__titulo {
+  margin-bottom: 10px;
+
+  color: #252525;
+
+  font-size: 32px;
+  font-weight: 600;
+
+  @media screen and (max-width: 1150px) {
+    font-size: 28px;
+  }
+}
+
+.recently-posted-card__paragrafo {
+  margin-bottom: 30px;
+
+  color: #9d9d9d;
+
+  font-size: 24px;
+  text-align: center;
+
+  @media screen and (max-width: 1150px) {
+    font-size: 20px;
+  }
+}
+
+.recently-posted-card-container-highest-bid {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.recently-posted-card-container-dois-highest-bid {
+  display: flex;
+  width: 50%;
+}
+
+.recently-posted-card__highest-bid {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+
+  font-size: 24px;
+
+  color: #252525;
+
+  @media screen and (max-width: 1150px) {
+    font-size: 18px;
+  }
+}
+
+.recently-posted-card__highest-bid__br {
+  font-size: 28px;
+
+  color: #252525;
+
+  @media screen and (max-width: 1150px) {
+    font-size: 24px;
+  }
+}
+
+.recently-posted-card__link {
+  display: flex;
+  justify-content: flex-end;
+  width: 50%;
+
+  color: #1e88e5;
+
+  font-size: 24px;
+  font-weight: 600;
+
+  @media screen and (max-width: 1150px) {
+    font-size: 20px;
+  }
+}
