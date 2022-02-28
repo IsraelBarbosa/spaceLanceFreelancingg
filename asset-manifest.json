@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/IsraelBarbosa/spaceLanceFreelancingg/static/css/main.63cc772a.css",
+    "main.js": "/IsraelBarbosa/spaceLanceFreelancingg/static/js/main.37911a7b.js",
+    "static/media/hero.png": "/IsraelBarbosa/spaceLanceFreelancingg/static/media/hero.06a385228cce10504cb0.png",
+    "static/media/aksaraJoshiProfilePhoto.png": "/IsraelBarbosa/spaceLanceFreelancingg/static/media/aksaraJoshiProfilePhoto.87e64a38b2607a91b6d5.png",
+    "static/media/bhaskarTiwariProfilePhoto.png": "/IsraelBarbosa/spaceLanceFreelancingg/static/media/bhaskarTiwariProfilePhoto.87e64a38b2607a91b6d5.png",
+    "static/media/cartoonAnimationBackground.png": "/IsraelBarbosa/spaceLanceFreelancingg/static/media/cartoonAnimationBackground.496fdc078cbc3fc3f1b3.png",
+    "static/media/articleWritingBackground.png": "/IsraelBarbosa/spaceLanceFreelancingg/static/media/articleWritingBackground.8262a5d9887210645976.png",
+    "static/media/heroBackground.png": "/IsraelBarbosa/spaceLanceFreelancingg/static/media/heroBackground.55a0a37b9fec6e978522.png",
+    "static/media/graphic&DesignBackground.png": "/IsraelBarbosa/spaceLanceFreelancingg/static/media/graphic&DesignBackground.152dda75870ca06615a1.png",
+    "static/media/bunnyDesignProfilePhoto.png": "/IsraelBarbosa/spaceLanceFreelancingg/static/media/bunnyDesignProfilePhoto.43e2936851b7bc800315.png",
+    "static/media/socialGraphicsBackground.png": "/IsraelBarbosa/spaceLanceFreelancingg/static/media/socialGraphicsBackground.7be555b9cbeb000ff4e4.png",
+    "static/media/logoDesignBackground.png": "/IsraelBarbosa/spaceLanceFreelancingg/static/media/logoDesignBackground.c97ff47d6200284b6ecb.png",
+    "static/media/flyers&VouchersBackground.png": "/IsraelBarbosa/spaceLanceFreelancingg/static/media/flyers&VouchersBackground.c8fca5595d3903d347a4.png",
+    "static/media/illustrationBackground.png": "/IsraelBarbosa/spaceLanceFreelancingg/static/media/illustrationBackground.b3edb2001e57558f4f20.png",
+    "static/media/videoEditingBackground.png": "/IsraelBarbosa/spaceLanceFreelancingg/static/media/videoEditingBackground.25d0f3e55a873466b85c.png",
+    "static/media/background.png": "/IsraelBarbosa/spaceLanceFreelancingg/static/media/background.29f7e5875194479a4257.png",
+    "index.html": "/IsraelBarbosa/spaceLanceFreelancingg/index.html",
+    "static/media/arrowBackIcon.svg": "/IsraelBarbosa/spaceLanceFreelancingg/static/media/arrowBackIcon.edd4a493f58d1c2a05bd2855f12861bb.svg",
+    "static/media/arrowNextIcon.svg": "/IsraelBarbosa/spaceLanceFreelancingg/static/media/arrowNextIcon.106bc6716e5d8debdcc63ca889f96321.svg",
+    "static/media/menuIcon.svg": "/IsraelBarbosa/spaceLanceFreelancingg/static/media/menuIcon.9dbc5a3a96ad85a57422263699b1695d.svg",
+    "main.63cc772a.css.map": "/IsraelBarbosa/spaceLanceFreelancingg/static/css/main.63cc772a.css.map",
+    "main.37911a7b.js.map": "/IsraelBarbosa/spaceLanceFreelancingg/static/js/main.37911a7b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63cc772a.css",
+    "static/js/main.37911a7b.js"
+  ]
+}
